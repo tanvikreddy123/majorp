@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "majorp91c2bc22": {}
+      },
+      "api": {
+        "majorp": {}
+      },
+      "storage": {
+        "projectstorage": {}
       }
     }
   }
